@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhang6300
+- 👋 Hi, I’m Zhang Junxi
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning python
 - 💞️ I’m want have a Linux-enabled computers
